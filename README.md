@@ -15,7 +15,7 @@ This project demonstrates:
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sql-injection-demo.git
+   git clone https://github.com/Yuraj-Isurinda
 
 ## ⚙️ Configure MySQL
 
