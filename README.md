@@ -7,6 +7,15 @@ This project demonstrates:
 2. A **secured** version using `PreparedStatement` and **Spring Data JPA**.
 
 ---
+## Prerequisites
+- Java 17+
+- Maven 3.8+
+- MySQL 8.0+
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/sql-injection-demo.git
 
 ## ⚙️ Configure MySQL
 
